@@ -16,6 +16,6 @@ public class Main extends JavaPlugin{
 	public void registerCmds() {
 	 this.getCommand("start").setExecutor(new Start(this));
 	}
-	
+	//a
 	
 }
