@@ -1,0 +1,8 @@
+main: me.Blume.ManhuntStart.Main
+name: ManhuntStart
+version: 1.0
+author: BlumeSegal
+
+commands:
+  start:
+    description: Use this before ManHunt. It will set your health, food level and time to 0.
